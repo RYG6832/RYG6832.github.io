@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Student-A"
-AuthUserFile /pass/pwd/.htpasswd
+AuthUserFile https://ryg6832.github.io/pass/pwd/.htpasswd
 require valid-user
